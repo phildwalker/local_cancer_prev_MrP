@@ -1,0 +1,548 @@
+"Breast Cancer"
+"SEER Incidence Rates by Age at Diagnosis, 2013-2017"
+
+Sex,Race/Ethnicity,"Rate Type",Age,"Rate per 100,000","Rate Standard Error","Rate Lower Confidence Interval","Rate Upper Confidence Interval"
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",<1,-,-,-,-
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",1-4,-,-,-,-
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",5-9,-,-,-,-
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",10-14,-,-,-,-
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",15-19,0.1532,0.0284,0.1026,0.2200
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",20-24,1.6303,0.0895,1.4597,1.8155
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",25-29,9.9973,0.2187,9.5731,10.4354
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",30-34,29.3759,0.3814,28.6332,30.1331
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",35-39,64.3901,0.5815,63.2553,65.5401
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",40-44,130.7305,0.8313,129.1061,132.3702
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",45-49,197.0963,0.9993,195.1425,199.0647
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",50-54,236.3788,1.0692,234.2878,238.4839
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",55-59,268.9955,1.1558,266.7350,271.2705
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",60-64,342.3217,1.3923,339.5982,345.0617
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",65-69,426.5198,1.7008,423.1928,429.8665
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",70-74,470.2441,2.0863,466.1638,474.3512
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",75-79,458.8889,2.4155,454.1667,463.6480
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",80-84,413.5124,2.6289,408.3756,418.6976
+Female,"All Races (includes Hispanic)","Observed SEER Incidence Rate",85+,326.0690,2.0919,321.9817,330.1953
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",<1,-,-,-,-
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",1-4,-,-,-,-
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",5-9,-,-,-,-
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",10-14,-,-,-,-
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",15-19,0.1550,0.0288,0.1038,0.2225
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",20-24,1.6461,0.0903,1.4738,1.8330
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",25-29,10.0849,0.2207,9.6571,10.5269
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",30-34,29.6396,0.3848,28.8901,30.4036
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",35-39,64.9667,0.5867,63.8217,66.1270
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",40-44,131.8887,0.8387,130.2500,133.5430
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",45-49,198.8403,1.0082,196.8691,200.8261
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",50-54,238.1818,1.0774,236.0748,240.3029
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",55-59,271.0841,1.1648,268.8060,273.3767
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",60-64,344.9945,1.4032,342.2497,347.7559
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",65-69,429.4365,1.7124,426.0867,432.8060
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",70-74,473.5179,2.1009,469.4091,477.6536
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",75-79,462.0131,2.4319,457.2587,466.8045
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",80-84,416.2883,2.6466,411.1170,421.5083
+Female,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",85+,328.2231,2.1057,324.1087,332.3765
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",<1,-,-,-,-
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",1-4,-,-,-,-
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",5-9,-,-,-,-
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",10-14,-,-,-,-
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",15-19,-,-,-,-
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",20-24,-,-,-,-
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",25-29,-,-,-,-
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",30-34,20.7259,3.4543,14.5161,28.6933
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",35-39,39.6447,5.0349,30.3954,50.8228
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",40-44,72.7721,7.1359,59.4600,88.1755
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",45-49,102.8668,8.5426,86.8053,121.0386
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",50-54,123.2598,9.1872,105.9102,142.6408
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",55-59,171.6312,11.3666,150.0745,195.4150
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",60-64,255.5046,15.4922,226.0396,287.7437
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",65-69,266.3608,18.4246,231.4712,305.0246
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",70-74,297.3429,23.7305,252.6508,347.6628
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",75-79,294.9606,28.6491,241.4896,356.7464
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",80-84,259.8415,33.5454,198.2864,334.4675
+Female,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",85+,238.8169,33.1180,178.3599,313.1766
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",<1,-,-,-,-
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",1-4,-,-,-,-
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",5-9,-,-,-,-
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",10-14,-,-,-,-
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",15-19,-,-,-,-
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",20-24,-,-,-,-
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",25-29,-,-,-,-
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",30-34,22.3167,3.7226,15.6252,30.8439
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",35-39,42.6698,5.4233,32.7075,54.6489
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",40-44,79.0678,7.7601,64.5919,95.7464
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",45-49,110.7820,9.2081,93.4699,130.3059
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",50-54,132.7620,9.9039,114.0596,153.5942
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",55-59,184.5715,12.2328,161.3725,210.1038
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",60-64,275.2408,16.7043,243.4715,309.9208
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",65-69,286.4681,19.8314,248.9154,327.9749
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",70-74,321.4096,25.6742,273.0587,375.6734
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",75-79,317.9844,30.9090,260.2976,384.3847
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",80-84,283.4562,36.6218,216.2596,364.4309
+Female,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",85+,259.5937,36.0280,193.8283,339.9765
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",<1,-,-,-,-
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",1-4,-,-,-,-
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",5-9,-,-,-,-
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",10-14,-,-,-,-
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",15-19,-,-,-,-
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",20-24,1.0849,0.2262,0.6877,1.6278
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",25-29,8.4349,0.5713,7.3523,9.6321
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",30-34,26.1380,0.9922,24.2292,28.1571
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",35-39,58.8381,1.5284,55.8802,61.9118
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",40-44,129.6008,2.2885,125.1537,134.1655
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",45-49,195.0353,2.9349,189.3249,200.8742
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",50-54,215.6737,3.1841,209.4776,222.0065
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",55-59,231.1181,3.4211,224.4610,237.9225
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",60-64,279.7909,4.0355,271.9367,287.8143
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",65-69,315.5921,4.7757,306.3006,325.0939
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",70-74,326.5692,5.8428,315.2169,338.2259
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",75-79,270.4051,6.1727,258.4408,282.7804
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",80-84,231.8981,6.7139,218.9241,245.4402
+Female,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",85+,181.9546,5.6750,171.0004,193.4265
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",<1,-,-,-,-
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",1-4,-,-,-,-
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",5-9,-,-,-,-
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",10-14,-,-,-,-
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",15-19,-,-,-,-
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",20-24,1.1191,0.2334,0.7093,1.6771
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",25-29,8.6760,0.5877,7.5623,9.9064
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",30-34,26.8878,1.0208,24.9240,28.9640
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",35-39,60.6075,1.5746,57.5602,63.7729
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",40-44,133.6787,2.3610,129.0910,138.3866
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",45-49,201.1685,3.0278,195.2774,207.1907
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",50-54,222.1225,3.2798,215.7402,228.6442
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",55-59,238.2116,3.5266,231.3491,245.2244
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",60-64,288.3285,4.1593,280.2335,296.5963
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",65-69,325.1808,4.9216,315.6054,334.9707
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",70-74,336.5564,6.0225,324.8549,348.5684
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",75-79,278.6294,6.3616,266.2991,291.3788
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",80-84,238.6764,6.9113,225.3210,252.6106
+Female,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",85+,186.9499,5.8316,175.6934,198.7332
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",<1,-,-,-,-
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",1-4,-,-,-,-
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",5-9,-,-,-,-
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",10-14,-,-,-,-
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",15-19,-,-,-,-
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",20-24,2.0396,0.2492,1.5807,2.5902
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",25-29,11.3702,0.6001,10.2243,12.6093
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",30-34,32.5257,1.0648,30.4719,34.6816
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",35-39,71.0038,1.6158,67.8719,74.2431
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",40-44,126.1163,2.1816,121.8763,130.4660
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",45-49,181.7902,2.5833,176.7618,186.9254
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",50-54,232.1336,2.8906,226.5023,237.8696
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",55-59,276.6283,3.2839,270.2290,283.1409
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",60-64,334.0712,3.9810,326.3136,341.9666
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",65-69,402.0988,4.9623,392.4310,411.9446
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",70-74,428.0696,6.1159,416.1656,440.2277
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",75-79,439.5511,7.3167,425.3263,454.1303
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",80-84,393.3978,8.3232,377.2521,410.0569
+Female,"Black (includes Hispanic)","Observed SEER Incidence Rate",85+,338.0674,7.4126,323.6934,352.9152
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",<1,-,-,-,-
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",1-4,-,-,-,-
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",5-9,-,-,-,-
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",10-14,-,-,-,-
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",15-19,-,-,-,-
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",20-24,2.0828,0.2545,1.6141,2.6444
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",25-29,11.5762,0.6110,10.4094,12.8373
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",30-34,33.0958,1.0836,31.0058,35.2890
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",35-39,72.2513,1.6444,69.0640,75.5471
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",40-44,128.2380,2.2185,123.9264,132.6607
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",45-49,184.9630,2.6287,179.8464,190.1876
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",50-54,236.1625,2.9411,230.4329,241.9979
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",55-59,281.4929,3.3420,274.9804,288.1199
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",60-64,339.8991,4.0508,332.0055,347.9321
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",65-69,409.3877,5.0528,399.5437,419.4118
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",70-74,435.8739,6.2280,423.7518,448.2532
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",75-79,447.5328,7.4503,433.0484,462.3759
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",80-84,400.5937,8.4763,384.1510,417.5558
+Female,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",85+,343.9840,7.5429,329.3574,359.0899
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",<1,-,-,-,-
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",1-4,-,-,-,-
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",5-9,-,-,-,-
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",10-14,-,-,-,-
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",15-19,-,-,-,-
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",20-24,1.5452,0.1696,1.2307,1.9155
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",25-29,8.6805,0.4148,7.8865,9.5328
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",30-34,24.8291,0.7147,23.4479,26.2703
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",35-39,52.2557,1.0616,50.1955,54.3787
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",40-44,103.9154,1.5433,100.9124,106.9850
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",45-49,152.7095,1.9556,148.9005,156.5914
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",50-54,187.7067,2.3042,183.2173,192.2783
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",55-59,218.4381,2.7254,213.1287,223.8463
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",60-64,275.3669,3.4815,268.5851,282.2766
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",65-69,334.7933,4.4536,326.1206,343.6383
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",70-74,344.2335,5.3682,333.7916,354.9190
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",75-79,323.2298,6.1249,311.3356,335.4622
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",80-84,287.7039,6.8814,274.3733,301.5148
+Female,"Hispanic (any race)","Observed SEER Incidence Rate",85+,234.6020,6.1210,222.7570,246.9132
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",<1,-,-,-,-
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",1-4,-,-,-,-
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",5-9,-,-,-,-
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",10-14,-,-,-,-
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",15-19,-,-,-,-
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",20-24,1.5674,0.1721,1.2484,1.9428
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",25-29,8.7940,0.4202,7.9895,9.6572
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",30-34,25.1771,0.7249,23.7763,26.6386
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",35-39,53.0263,1.0775,50.9354,55.1807
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",40-44,105.4487,1.5664,102.4008,108.5640
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",45-49,154.9847,1.9852,151.1179,158.9250
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",50-54,190.1882,2.3353,185.6383,194.8210
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",55-59,221.2954,2.7617,215.9154,226.7752
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",60-64,279.0104,3.5284,272.1372,286.0128
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",65-69,338.7875,4.5079,330.0092,347.7394
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",70-74,348.9004,5.4429,338.3131,359.7334
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",75-79,327.1567,6.2007,315.1153,339.5389
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",80-84,290.9011,6.9593,277.4194,304.8666
+Female,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",85+,237.4397,6.1969,225.4480,249.9016
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",<1,-,-,-,-
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",1-4,-,-,-,-
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",5-9,-,-,-,-
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",10-14,-,-,-,-
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",15-19,-,-,-,-
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",20-24,1.5639,0.1256,1.3274,1.8304
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",25-29,10.2469,0.3134,9.6418,10.8801
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",30-34,30.2711,0.5469,29.2087,31.3624
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",35-39,67.4123,0.8446,65.7670,69.0883
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",40-44,140.4563,1.2056,138.1032,142.8395
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",45-49,212.4580,1.3931,209.7363,215.2062
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",50-54,250.3133,1.4220,247.5338,253.1162
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",55-59,280.9999,1.4843,278.0980,283.9244
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",60-64,361.1846,1.7628,357.7377,364.6565
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",65-69,455.9964,2.1267,451.8376,460.1839
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",70-74,509.3644,2.5996,504.2819,514.4855
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",75-79,502.6481,3.0242,496.7381,508.6108
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",80-84,451.3376,3.2365,445.0162,457.7263
+Female,"Non-Hispanic White","Observed SEER Incidence Rate",85+,345.7987,2.4719,340.9707,350.6780
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",<1,-,-,-,-
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",1-4,-,-,-,-
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",5-9,-,-,-,-
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",10-14,-,-,-,-
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",15-19,-,-,-,-
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",20-24,1.5772,0.1267,1.3387,1.8459
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",25-29,10.3368,0.3162,9.7264,10.9755
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",30-34,30.5465,0.5519,29.4744,31.6476
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",35-39,68.0126,0.8521,66.3527,69.7035
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",40-44,141.6910,1.2162,139.3171,144.0950
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",45-49,214.3543,1.4055,211.6083,217.1269
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",50-54,252.5540,1.4348,249.7496,255.3819
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",55-59,283.5637,1.4979,280.6354,286.5149
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",60-64,364.4939,1.7790,361.0154,367.9976
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",65-69,460.3202,2.1469,456.1219,464.5474
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",70-74,514.2815,2.6248,509.1497,519.4519
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",75-79,507.4309,3.0530,501.4645,513.4503
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",80-84,455.5935,3.2671,449.2124,462.0424
+Female,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",85+,349.0430,2.4951,344.1696,353.9680
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",<1,-,-,-,-
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",1-4,-,-,-,-
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",5-9,-,-,-,-
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",10-14,-,-,-,-
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",15-19,0.1307,0.0308,0.0774,0.2065
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",20-24,1.5574,0.1034,1.3613,1.7737
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",25-29,9.8777,0.2584,9.3776,10.3975
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",30-34,28.9124,0.4491,28.0389,29.8063
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",35-39,63.5166,0.6860,62.1791,64.8757
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",40-44,131.0109,0.9849,129.0875,132.9558
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",45-49,199.0902,1.1730,196.7976,201.4028
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",50-54,238.4689,1.2408,236.0432,240.9134
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",55-59,271.2387,1.3294,268.6392,273.8571
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",60-64,349.4610,1.6009,346.3303,352.6130
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",65-69,441.2886,1.9517,437.4716,445.1307
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",70-74,489.5378,2.3849,484.8745,494.2347
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",75-79,480.8246,2.7693,475.4120,486.2835
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",80-84,433.3261,2.9865,427.4922,439.2196
+Female,"White (includes Hispanic)","Observed SEER Incidence Rate",85+,335.2745,2.3202,330.7422,339.8534
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",<1,-,-,-,-
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",1-4,-,-,-,-
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",5-9,-,-,-,-
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",10-14,-,-,-,-
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",15-19,0.1323,0.0312,0.0784,0.2090
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",20-24,1.5720,0.1043,1.3741,1.7902
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",25-29,9.9684,0.2608,9.4637,10.4929
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",30-34,29.1855,0.4533,28.3037,30.0878
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",35-39,64.1134,0.6925,62.7632,65.4852
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",40-44,132.2193,0.9940,130.2781,134.1821
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",45-49,200.9516,1.1840,198.6375,203.2858
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",50-54,240.5335,1.2515,238.0867,242.9991
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",55-59,273.6293,1.3412,271.0069,276.2707
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",60-64,352.5411,1.6150,349.3827,355.7209
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",65-69,445.3322,1.9696,441.4801,449.2095
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",70-74,494.1091,2.4072,489.4022,498.8499
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",75-79,485.2472,2.7948,479.7847,490.7562
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",80-84,437.2455,3.0135,431.3588,443.1923
+Female,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",85+,338.2731,2.3410,333.7002,342.8928
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",<1,-,-,-,-
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",1-4,-,-,-,-
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",5-9,-,-,-,-
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",10-14,-,-,-,-
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",15-19,-,-,-,-
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",20-24,-,-,-,-
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",25-29,-,-,-,-
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",30-34,0.1025,0.0224,0.0635,0.1568
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",35-39,0.2218,0.0342,0.1598,0.2998
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",40-44,0.4100,0.0470,0.3230,0.5132
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",45-49,0.8043,0.0646,0.6827,0.9414
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",50-54,1.2408,0.0790,1.0909,1.4056
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",55-59,2.1035,0.1052,1.9024,2.3201
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",60-64,3.0552,0.1376,2.7915,3.3372
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",65-69,4.6259,0.1884,4.2640,5.0103
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",70-74,5.9720,0.2565,5.4797,6.4966
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",75-79,7.0675,0.3392,6.4181,7.7647
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",80-84,8.9549,0.4630,8.0703,9.9101
+Male,"All Races (includes Hispanic)","Observed SEER Incidence Rate",85+,7.9160,0.4503,7.0579,8.8497
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",<1,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",1-4,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",5-9,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",10-14,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",15-19,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",20-24,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",25-29,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",30-34,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",35-39,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",40-44,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",45-49,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",50-54,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",55-59,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",60-64,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",65-69,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",70-74,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",75-79,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",80-84,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted SEER Incidence Rate",85+,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",<1,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",1-4,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",5-9,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",10-14,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",15-19,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",20-24,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",25-29,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",30-34,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",35-39,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",40-44,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",45-49,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",50-54,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",55-59,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",60-64,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",65-69,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",70-74,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",75-79,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",80-84,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed SEER Incidence Rate",85+,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",<1,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",1-4,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",5-9,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",10-14,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",15-19,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",20-24,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",25-29,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",30-34,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",35-39,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",40-44,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",45-49,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",50-54,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",55-59,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",60-64,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",65-69,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",70-74,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",75-79,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",80-84,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted SEER Incidence Rate",85+,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",<1,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",1-4,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",5-9,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",10-14,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",15-19,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",20-24,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",25-29,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",30-34,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",35-39,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",40-44,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",45-49,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",50-54,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",55-59,1.4676,0.2935,0.9497,2.1664
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",60-64,1.3945,0.3118,0.8518,2.1537
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",65-69,2.1126,0.4312,1.3536,3.1435
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",70-74,3.8530,0.7035,2.5996,5.5005
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",75-79,3.0671,0.7439,1.7867,4.9107
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",80-84,5.2679,1.2085,3.1716,8.2264
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed SEER Incidence Rate",85+,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",<1,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",1-4,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",5-9,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",10-14,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",15-19,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",20-24,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",25-29,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",30-34,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",35-39,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",40-44,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",45-49,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",50-54,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",55-59,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",60-64,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",65-69,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",70-74,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",75-79,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",80-84,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted SEER Incidence Rate",85+,-,-,-,-
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",<1,-,-,-,-
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",1-4,-,-,-,-
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",5-9,-,-,-,-
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",10-14,-,-,-,-
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",15-19,-,-,-,-
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",20-24,-,-,-,-
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",25-29,-,-,-,-
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",30-34,-,-,-,-
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",35-39,-,-,-,-
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",40-44,1.0322,0.2107,0.6613,1.5358
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",45-49,1.5872,0.2575,1.1232,2.1785
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",50-54,1.8955,0.2795,1.3877,2.5283
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",55-59,3.6351,0.4064,2.8824,4.5242
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",60-64,4.2170,0.4970,3.2996,5.3107
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",65-69,7.6563,0.7855,6.1944,9.3594
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",70-74,8.2920,1.0130,6.4262,10.5305
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",75-79,8.6873,1.2809,6.3602,11.5877
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",80-84,10.3672,1.8047,7.1363,14.5594
+Male,"Black (includes Hispanic)","Observed SEER Incidence Rate",85+,10.0379,1.9686,6.5571,14.7079
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",<1,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",1-4,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",5-9,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",10-14,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",15-19,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",20-24,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",25-29,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",30-34,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",35-39,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",40-44,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",45-49,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",50-54,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",55-59,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",60-64,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",65-69,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",70-74,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",75-79,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",80-84,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted SEER Incidence Rate",85+,-,-,-,-
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",<1,-,-,-,-
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",1-4,-,-,-,-
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",5-9,-,-,-,-
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",10-14,-,-,-,-
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",15-19,-,-,-,-
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",20-24,-,-,-,-
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",25-29,-,-,-,-
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",30-34,-,-,-,-
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",35-39,-,-,-,-
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",40-44,-,-,-,-
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",45-49,0.5890,0.1202,0.3774,0.8764
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",50-54,0.7727,0.1487,0.5092,1.1243
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",55-59,1.0451,0.1941,0.6999,1.5010
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",60-64,1.5316,0.2751,1.0407,2.1740
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",65-69,2.3232,0.4044,1.5992,3.2626
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",70-74,3.0456,0.5756,2.0238,4.4017
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",75-79,4.2200,0.8276,2.7566,6.1833
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",80-84,7.7970,1.4004,5.2977,11.0673
+Male,"Hispanic (any race)","Observed SEER Incidence Rate",85+,4.6020,1.1505,2.6305,7.4734
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",<1,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",1-4,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",5-9,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",10-14,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",15-19,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",20-24,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",25-29,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",30-34,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",35-39,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",40-44,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",45-49,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",50-54,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",55-59,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",60-64,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",65-69,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",70-74,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",75-79,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",80-84,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted SEER Incidence Rate",85+,-,-,-,-
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",<1,-,-,-,-
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",1-4,-,-,-,-
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",5-9,-,-,-,-
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",10-14,-,-,-,-
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",15-19,-,-,-,-
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",20-24,-,-,-,-
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",25-29,-,-,-,-
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",30-34,-,-,-,-
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",35-39,0.1761,0.0427,0.1026,0.2820
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",40-44,0.3784,0.0622,0.2665,0.5216
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",45-49,0.7483,0.0826,0.5952,0.9289
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",50-54,1.3497,0.1051,1.1517,1.5721
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",55-59,2.1346,0.1311,1.8853,2.4077
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",60-64,3.3127,0.1734,2.9815,3.6706
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",65-69,4.8461,0.2287,4.4082,5.3158
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",70-74,6.3023,0.3094,5.7105,6.9388
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",75-79,7.7498,0.4172,6.9535,8.6123
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",80-84,9.3973,0.5499,8.3502,10.5393
+Male,"Non-Hispanic White","Observed SEER Incidence Rate",85+,8.6409,0.5390,7.6166,9.7645
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",<1,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",1-4,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",5-9,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",10-14,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",15-19,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",20-24,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",25-29,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",30-34,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",35-39,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",40-44,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",45-49,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",50-54,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",55-59,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",60-64,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",65-69,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",70-74,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",75-79,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",80-84,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted SEER Incidence Rate",85+,-,-,-,-
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",<1,-,-,-,-
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",1-4,-,-,-,-
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",5-9,-,-,-,-
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",10-14,-,-,-,-
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",15-19,-,-,-,-
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",20-24,-,-,-,-
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",25-29,-,-,-,-
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",30-34,-,-,-,-
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",35-39,0.1649,0.0344,0.1045,0.2475
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",40-44,0.3422,0.0499,0.2514,0.4551
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",45-49,0.7130,0.0699,0.5826,0.8639
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",50-54,1.2198,0.0892,1.0512,1.4077
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",55-59,1.9291,0.1139,1.7124,2.1657
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",60-64,3.0662,0.1547,2.7705,3.3849
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",65-69,4.5481,0.2078,4.1499,4.9742
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",70-74,5.9382,0.2831,5.3963,6.5199
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",75-79,7.3696,0.3836,6.6368,8.1613
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",80-84,9.1960,0.5149,8.2145,10.2626
+Male,"White (includes Hispanic)","Observed SEER Incidence Rate",85+,8.2924,0.5019,7.3378,9.3367
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",<1,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",1-4,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",5-9,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",10-14,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",15-19,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",20-24,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",25-29,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",30-34,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",35-39,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",40-44,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",45-49,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",50-54,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",55-59,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",60-64,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",65-69,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",70-74,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",75-79,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",80-84,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted SEER Incidence Rate",85+,-,-,-,-
+
+"Data Source:"
+"SEER 21 areas [http://seer.cancer.gov/registries/terms.html] (San Francisco, Connecticut, Detroit, Hawaii, Iowa, New Mexico, Seattle, Utah, Atlanta, San Jose-Monterey, Los Angeles, Alaska Native Registry, Rural Georgia, California excluding SF/SJM/LA, Kentucky, Louisiana, New Jersey, Georgia excluding ATL/RG, Idaho, New York and Massachusetts)."
+Methodology:
+"Rates are per 100,000."
+"Race/Ethnicity Coding:"
+"Rates for American Indians/Alaska Natives only include cases that are in a Purchased/Referred Care Delivery Area (PRCDA). See  SEER Race Recode Documentation for American Indian/Alaskan Native Statistics [http://seer.cancer.gov/seerstat/variables/seer/race_ethnicity/#ai-an]."
+"Hispanics and Non-Hispanics are not mutually exclusive from whites, blacks, Asian/Pacific Islanders, and American Indians/Alaska Natives. Incidence data for Hispanics and Non-Hispanics are based on the NAACCR Hispanic Latino Identification Algorithm (NHIA) and exclude cases from the Alaska Native Registry. See SEER Race Recode Documentation for Spanish-Hispanic-Latino Ethnicity [http://seer.cancer.gov/seerstat/variables/seer/race_ethnicity/#hispanic]."
+"Cancer Site Coding:"
+"See <a href=""https://seer.cancer.gov/explorer/cancer-sites.html"">SEER*Explorer Cancer Site Definitions</a> for details about the coding used for SEER Incidence data."
+Timestamp:
+"Created by seer.cancer.gov/explorer/application.html on 02/14/2021 3:55 pm."

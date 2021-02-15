@@ -9,9 +9,10 @@ library(censusapi)
 
 ACS_codes <- tibble::tribble(
   ~group, ~name, ~geoLevel, ~code, 
-  "overall", "POV_LEVL", "tract", list("C17002_001E","C17002_002E","C17002_003E","C17002_004E",
-                                             "C17002_005E","C17002_006E","C17002_007E","C17002_008E"), 
+  "overall", "POV_LEVL", "tract", list("B17001_002M"), 
 )
+
+#list("C17002_001E","C17002_002E","C17002_003E","C17002_004E", "C17002_005E","C17002_006E","C17002_007E","C17002_008E")
 
 ACSdata <- function(i = 10){
   vars <- dput(as.character(ACS_codes$code[[i]]))
@@ -38,3 +39,6 @@ ACSdata <- function(i = 10){
 for (k in 1:nrow(ACS_codes)){
   ACSdata(k)
 }
+
+
+load(file = here::here("data", "POV_LEVL.rda"))

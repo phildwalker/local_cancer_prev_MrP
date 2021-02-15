@@ -11,13 +11,14 @@ using the cancer prevalence by age group to develop an estimated prevalence of b
 
 # Current level of data  
 
-Using the BRFSS?
+Using the BRFSS? (Behavioral Risk Factor Surveillance System)
 
 * Using the SEER 21 areas data
-
+    * SEER 21- Available for cases diagnosed from 2000 through the current data year and includes expanded races.  It has a more limited set of available variables than other groupings and is only available for limited statistics.
 
 # Desired level of data
 
+Down to the tract level
 
 # Steps
 
@@ -29,3 +30,19 @@ Using the BRFSS?
 4. Compare to patients with breast cancer dx in the past 3* years? (Maybe wider net?)
 ... using those patients who we have decided information for
 ... this could allow us a form of validation or helping to highlight where cone could outreach?
+
+
+
+# Assumptions
+
+that sex is split evenly on the tract level (so we end up dividing totals by 2 )
+
+
+
+
+
+
+
+
+
+
