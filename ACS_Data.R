@@ -13,7 +13,7 @@ PovLevl <- get_acs(geography = "tract", variables = vars,
 
 v19 <- load_variables(2019, "acs5", cache = TRUE)
 
-
+# unique(Pov_Names$Age)
 
 Pov_Names <-
   PovLevl %>% 
@@ -26,11 +26,19 @@ Pov_Names <-
                               is.na(IncomeToPov) ~ "TotalGrouping",
                               is.na(IncomeToPov) & is.na(Age) ~ "TotalOverall",
                               TRUE ~ "Unknown")) %>% 
+  mutate(AgeGroup = case_when(Age %in% c("Under 6 years:", "6 to 11 years:", "12 to 17 years:", "18 to 24 years:") ~ "0-24",
+                              Age %in% c("25 to 34 years:") ~ "25-34", 
+                              Age %in% c("35 to 44 years:") ~ "35-44", 
+                              Age %in% c("45 to 54 years:") ~ "45-54", 
+                              Age %in% c("55 to 64 years:") ~ "55-64", 
+                              Age %in% c("65 to 74 years:") ~ "65-74", 
+                              Age %in% c("75 years and over:") ~ "75+", 
+                              TRUE ~ "Unknown")) %>% 
   filter(!PovGroup %in% c("TotalGrouping", "TotalOverall")) %>% 
-  group_by(PovGroup, GEOID, NAME, Age) %>% 
+  group_by(PovGroup, GEOID, NAME, AgeGroup) %>% 
   summarise(TotalPerson = sum(estimate)) %>% 
   ungroup() %>% 
-  group_by(GEOID, NAME, Age) %>% 
+  group_by(GEOID, NAME, AgeGroup) %>% 
   mutate(TotalGroup = sum(TotalPerson)) %>%
   ungroup() %>% 
   mutate(Perc = TotalPerson/TotalGroup) %>% 
