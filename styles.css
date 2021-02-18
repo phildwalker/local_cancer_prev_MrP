@@ -1,0 +1,372 @@
+.legend{
+clear:initial !important;
+}
+
+th{background-color: #00A2B2;
+color:white}
+
+tr{color:#00205C}
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+h1.title {
+    font-size: 28px;
+    font-family: "Gotham SSm A","Gotham SSm B",'Montserrat',Arial,sans-serif;
+    color: #00205C;
+  }
+h1 { /* Header 1 */
+    font-size: 24px;
+  font-family: "Gotham SSm A","Gotham SSm B",'Montserrat',Arial,sans-serif;
+  color: #00205C;
+}
+h2 { /* Header 2 */
+    font-size: 18px;
+  font-family: "Gotham SSm A","Gotham SSm B",'Montserrat',Arial,sans-serif;
+  color: #00205C;
+}
+h3 { /* Header 3 */
+    font-size: 18px;
+  font-family: "Gotham SSm A","Gotham SSm B",'Montserrat',Arial,sans-serif;
+  color: #00205C;
+}
+h4.author { /* Header 3 */
+    font-size: 18px;
+  font-family: "Gotham SSm A","Gotham SSm B",'Montserrat',Arial,sans-serif;
+  color: #555555;
+}
+h4.date { /* Header 3 */
+    font-size: 18px;
+  font-family: "Gotham SSm A","Gotham SSm B",'Montserrat',Arial,sans-serif;
+  color: #555555;
+    font-style: italic;
+}
+body {
+  font-family: "Gotham SSm A","Gotham SSm B",'Montserrat',Arial,sans-serif;
+  font-size: 16px;
+}
+a {
+  color: #00A2B2;
+}
+a:hover, a:focus {
+  color: #00205C;
+}
+.btn {
+  border-width: 0 0px 0px 0px;
+  font-weight: normal;
+  color: #ffffff;
+    background-color: #00A2B2;
+    border-color: #00A2B2;
+}
+.btn-default {
+  color: #00A2B2;
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+
+/** Changes the tabset to Cone themed colours
+*/
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus {
+  color: #ffffff;
+    background-color: #00A2B2;
+}
+
+.nav-pills > li.active > a:hover {
+  color: #00205C;
+    background-color: #00A2B2;
+}
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    background-color: #00205C;
+    border-color: #00205C;
+}
+
+
+.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+.tip {
+    padding: 0.5em;
+    background-color: #dbfaf4;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/** Summary Block Chunk which outlines in Cone Blue
+*/
+
+.summaryblock{
+  padding: 1em 1em 1em 1em;
+  margin-bottom: 10px;
+  color: #333E50;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #00A2B2;
+}
+
+.summaryblock > a {
+  color: #d8dfee;
+}
+
+/** Alter Box in Clemson Orange
+*/
+
+.alertblock{
+  padding: 1em 1em 1em 1em;
+  margin-bottom: 10px;
+  color: #333E50;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #F66733;
+}
+
+.alertblock > a {
+  color: #d8dfee;
+}
+
+/**Automatically resize to full screen
+*/
+
+.main-container {
+  /*max-width: 1800px !important;*/
+  max-width: 95% !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.table{
+      width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width:95%;
+}
+
+.table>tbody>tr>td{
+  padding:3px 20px 3px 20px;
+}
+
+.table>thead>tr>th{
+  padding:5px 20px 5px 20px;
+}
+
+
+
+/** Adds a watermark to the document
+*/
+
+
+
+
+
+
+
+
+
+
+/** Adding in Drop Down Button for Code Chunks
+See `dropdown` code chunk setting for implementations in knitted doc
+*/
+
+button.btn.collapsed:before
+{
+    content:'+' ;
+    display:block;
+    width:15px;
+}
+button.btn:before
+{
+    content:'-' ;
+    display:block;
+    width:15px;
+}
+
+/** Weird Code Folding Issues
+*/
+
+div.sourceCode {
+  overflow-x: hidden;
+}
+
+
+/* Nav Bar Stuff */
+.navbar, .distill-site-nav {
+	background-color: #00A2B2;
+	background-image: none;
+	text-decoration: none;
+	text-shadow: none;
+}
+
+.navbar-default .navbar-nav>li>a, .distill-site-nav a {
+
+    color: white;
+	font-size: 19px;
+}
+
+.navbar-default .navbar-link:hover, .navbar-default .navbar-link:focus {
+    color: white;
+}
+
+.navbar-default .navbar-nav{
+  margin-left:35px;
+}
+
+.navbar-default .navbar-brand, .distill-site-header .title {
+    color: white;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.navbar-default .navbar-link {
+	color: white;
+	background-color: #00A2B2;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus, .distill-site-nav a:hover, .distill-site-nav a:focus {
+    color: white;
+    background-color: #012169;
+}
+
+
+
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+    font-weight: bold;
+    color: #012169;
+    background-color: white;
+}
+
+.dropdown-menu>li>a {
+    color: #00A2B2;
+    background-color: white;
+}
+
+.navbar-default .navbar-nav>.open>a:hover{
+    background-color: transparent;
+    color: #00A2B2;
+}
+
+.navbar-default .navbar-nav>.open>a:focus {
+  background-color: transparent;
+    color: #00A2B2;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+
+
+
+
+
+
+    color: white;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+    background-color: #012169;
+
+
+    color: white;
+}
+
+.main-container {
+padding-top:inherit;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: white;
+    text-decoration: none;
+    background-color: #012169;
+}
+
+
+.navbar-brand {
+    padding: 17px 10px 10px;
+    line-height: 20px;
+    height: 55px;
+    margin-left: -50px;
+}
+
+
+.nav>li>a {
+    padding-top: 17px;
+    padding-bottom: 13px;
+    line-height: 23px;
+    height: 55px;
+}
+
+
+.navbar-default {
+    background: #00A2B2 url(https://www.conehealth.com/imgs/icons/logo-icon-white.svg) no-repeat left;
+    background-size: 41px 30px;
+    background-origin: content-box, padding-box;
+    padding: 0 20px 0 20px;
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: 35px;
+}
+
+
+
+.warning {
+    display: inline-flex;
+    margin: 30px;
+    font-weight: 700;
+    font-size: 16px;
+    /* font-size: 1rem; */
+    line-height: 1.25;
+    color: #0b0c0c;
+}
+
+.warning:before {
+    display: inline-block;
+    margin: 10px;
+    content: "!";
+    color: white;
+    background: #d4351c;
+    font-weight: 700;
+    left: 50px;
+    min-width: 35px;
+    max-width: 35px;
+    max-height: 35px;
+    min-height: 35px;
+    margin-top: -7px;
+    border-radius: 50%;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.watermark {
+  opacity: 0.5;
+  position: fixed;
+  top: 85%;
+  left: 35%;
+  font-size: 14px;
+  color:  #CC0000;
+}
+
+
+
+
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:hover, .dropdown-menu>.active>a:focus{
+	background-color: #00A2B2
+}
+
+.storyboard-nav .sbframelist ul li.active {
+    background-color: rgb(0 162 178);
+}
+
+.navbar-inverse {
+    background-color: #00a2b2;
+    border-color: #00a2b2;
+}

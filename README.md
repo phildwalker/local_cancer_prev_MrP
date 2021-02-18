@@ -39,10 +39,12 @@ that sex is split evenly on the tract level (so we end up dividing totals by 2 )
 
 
 
+Rough estimate to validate...
+
+Guilford has ~500,000 residents... if estimate that 1/2 are female >> 250,000 ... if the overall rate per 100,000 (according )
 
 
 
-
-
+https://schs.dph.ncdhhs.gov/schs/CCR/cp2020/Alamance.pdfhttps://schs.dph.ncdhhs.gov/schs/CCR/cp2020/Alamance.pdf
 
 

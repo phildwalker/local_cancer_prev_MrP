@@ -1,0 +1,28 @@
+name: "Alight Integrative Care: Estimating Cancer Incidence"
+output_dir: "docs"
+navbar:
+  title: "Alight Integrative Care: Estimating Cancer Incidence"
+  left:
+    - text: "Incidence"
+      icon: fa-door-open
+      menu:
+      - text: "All Cancer Incdicence"
+        href: Cancer_Incidence.html
+    - text: "Prevalence"
+      icon: fa-address-card
+      menu:
+      - text: "All Cancer Prevalence"
+        href: Cancer_Prevalence.html
+  right:
+    - text: "Contact"
+      icon: glyphicon-question-sign
+      href: contact.html        
+output:
+  html_document:
+    theme: spacelab
+    df_print: paged
+    highlight: textmate
+    includes:
+      in_header: header.html
+      after_body: footer.html
+    css: styles.css

@@ -1,0 +1,27 @@
+---
+title: "Welcome"
+date: "`r paste0('Last Updated: ', format(Sys.time(), '%d %B, %Y')) `"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    code_folding: hide
+editor_options: 
+  chunk_output_type: console
+---
+
+
+Welcome to the analysis of cancer within the communities served by Cone.
+
+__Purpose__   
+
+We aim to provide an easy to navigate resource which will allow the user to see the high level analysis as well as the opportunity dive into the specific results and model outputs.
+
+
+
+
+
+
+
+
+
